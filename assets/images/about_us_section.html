@@ -1,0 +1,93 @@
+
+<style>
+  .au-wrap { font-family: 'Segoe UI', sans-serif; padding: 3rem 1.5rem; max-width: 960px; margin: 0 auto; }
+  .au-heading { font-size: 2.4rem; font-weight: 700; color: var(--color-text-primary); margin-bottom: 0.4rem; letter-spacing: -0.5px; }
+  .au-heading span { color: #0067b8; }
+  .au-divider { width: 60px; height: 3px; background: linear-gradient(90deg,#0067b8,#00a4ef); border-radius: 2px; margin: 0.6rem 0 1.2rem; }
+  .au-desc { font-size: 1rem; color: var(--color-text-secondary); line-height: 1.75; max-width: 680px; margin-bottom: 2.5rem; }
+  .au-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 2.5rem; }
+  .au-card { background: var(--color-background-secondary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); padding: 1.2rem 1rem; transition: border-color 0.2s; }
+  .au-card:hover { border-color: #0067b8; }
+  .au-card-icon { font-size: 22px; margin-bottom: 0.6rem; }
+  .au-card-title { font-size: 0.9rem; font-weight: 500; color: var(--color-text-primary); margin-bottom: 0.3rem; }
+  .au-card-text { font-size: 0.8rem; color: var(--color-text-secondary); line-height: 1.5; }
+  .au-team { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1rem; }
+  .au-team-label { font-size: 1rem; font-weight: 500; color: var(--color-text-primary); margin-bottom: 1rem; }
+  .au-member { background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); padding: 1rem 0.75rem; text-align: center; }
+  .au-avatar { width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 500; font-size: 14px; margin: 0 auto 0.6rem; }
+  .av-blue { background: #ddeeff; color: #0067b8; }
+  .av-green { background: #ddf5e5; color: #107c41; }
+  .av-orange { background: #fde8d8; color: #c55a11; }
+  .av-purple { background: #ede8fd; color: #6b30d4; }
+  .au-member-name { font-size: 0.82rem; font-weight: 500; color: var(--color-text-primary); }
+  .au-member-role { font-size: 0.75rem; color: var(--color-text-secondary); }
+  .au-stat-row { display: flex; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 2.5rem; }
+  .au-stat { text-align: left; }
+  .au-stat-num { font-size: 2rem; font-weight: 700; color: #0067b8; line-height: 1; }
+  .au-stat-lbl { font-size: 0.78rem; color: var(--color-text-secondary); margin-top: 2px; }
+  hr.au-hr { border: none; border-top: 0.5px solid var(--color-border-tertiary); margin: 2rem 0; }
+</style>
+
+<div class="au-wrap">
+  <h2 class="au-heading">About <span>Us</span></h2>
+  <div class="au-divider"></div>
+  <p class="au-desc">
+    We are a passionate team dedicated to building innovative solutions that empower people and businesses worldwide. With a focus on creativity, technology, and human connection — we craft experiences that truly matter.
+  </p>
+
+  <div class="au-stat-row">
+    <div class="au-stat"><div class="au-stat-num">12+</div><div class="au-stat-lbl">Years of experience</div></div>
+    <div class="au-stat"><div class="au-stat-num">340+</div><div class="au-stat-lbl">Projects delivered</div></div>
+    <div class="au-stat"><div class="au-stat-num">80+</div><div class="au-stat-lbl">Happy clients</div></div>
+    <div class="au-stat"><div class="au-stat-num">18</div><div class="au-stat-lbl">Team members</div></div>
+  </div>
+
+  <div class="au-cards">
+    <div class="au-card">
+      <div class="au-card-icon">&#128161;</div>
+      <div class="au-card-title">Our Mission</div>
+      <div class="au-card-text">To deliver impactful digital experiences through thoughtful design and cutting-edge technology.</div>
+    </div>
+    <div class="au-card">
+      <div class="au-card-icon">&#127919;</div>
+      <div class="au-card-title">Our Vision</div>
+      <div class="au-card-text">A world where every brand has the tools to connect meaningfully with its audience.</div>
+    </div>
+    <div class="au-card">
+      <div class="au-card-icon">&#10024;</div>
+      <div class="au-card-title">Our Values</div>
+      <div class="au-card-text">Integrity, creativity, collaboration, and a relentless drive to exceed expectations.</div>
+    </div>
+    <div class="au-card">
+      <div class="au-card-icon">&#127942;</div>
+      <div class="au-card-title">Our Promise</div>
+      <div class="au-card-text">We stand behind every project we ship — quality is non-negotiable for us.</div>
+    </div>
+  </div>
+
+  <hr class="au-hr"/>
+
+  <div class="au-team-label">Meet the team</div>
+  <div class="au-team">
+    <div class="au-member">
+      <div class="au-avatar av-blue">AK</div>
+      <div class="au-member-name">Aryan Kumar</div>
+      <div class="au-member-role">Founder & CEO</div>
+    </div>
+    <div class="au-member">
+      <div class="au-avatar av-green">PM</div>
+      <div class="au-member-name">Priya Mehta</div>
+      <div class="au-member-role">Lead Designer</div>
+    </div>
+    <div class="au-member">
+      <div class="au-avatar av-orange">RS</div>
+      <div class="au-member-name">Rahul Singh</div>
+      <div class="au-member-role">Head of Dev</div>
+    </div>
+    <div class="au-member">
+      <div class="au-avatar av-purple">NV</div>
+      <div class="au-member-name">Neha Verma</div>
+      <div class="au-member-role">Marketing Lead</div>
+    </div>
+  </div>
+</div>
