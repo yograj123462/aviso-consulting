@@ -31,3 +31,9 @@
   }, {threshold:0.5});
   const sb = document.querySelector('.stats-bar');
   if(sb) statsIO.observe(sb);
+
+
+  const obs = new IntersectionObserver(entries => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('v'); obs.unobserve(e.target); } });
+  }, { threshold: 0.1 });
+  document.querySelectorAll('.fu').forEach(el => obs.observe(el));
