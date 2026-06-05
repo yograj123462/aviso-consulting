@@ -37,3 +37,48 @@
     entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('v'); obs.unobserve(e.target); } });
   }, { threshold: 0.1 });
   document.querySelectorAll('.fu').forEach(el => obs.observe(el));
+
+
+  $(document).ready(function(){
+
+    $('.product-slider').owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        dots:false,
+        autoplay:true,
+        autoplayTimeout:3000,
+        autoplayHoverPause:true,
+        responsive:{
+            0:{
+                items:1
+            },
+            768:{
+                items:2
+            },
+            992:{
+                items:3
+            },
+            1200:{
+                items:4
+            }
+        }
+    });
+
+});
+
+
+Fancybox.bind("[data-fancybox='dashboards']", {});
+
+  Fancybox.bind('[data-fancybox="solution"]', {
+    animated: true,
+    Toolbar: {
+      display: {
+        left: ["infobar"],
+        middle: [],
+        right: ["zoom", "fullscreen", "download", "close"]
+      }
+    },
+    Images: { zoom: true },
+    Carousel: { transition: "slide" }
+  });
