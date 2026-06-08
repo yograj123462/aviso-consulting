@@ -2282,7 +2282,7 @@ section.certified-sec h3 {
     padding: 80px 0;
 }
 
-/* Ã¢â€â‚¬Ã¢â€â‚¬ Section header Ã¢â€â‚¬Ã¢â€â‚¬ */
+/* ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ Section header ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ */
 .noc-lbl {
     font-size: .7rem;
     font-weight: 700;
@@ -2471,7 +2471,7 @@ section.certified-sec h3 {
     padding-top: 2px;
 }
 
-/* Ã¢â€â‚¬Ã¢â€â‚¬ Roles card (dark) Ã¢â€â‚¬Ã¢â€â‚¬ */
+/* ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ Roles card (dark) ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ */
 .noc-roles-card {
     background: #141B24;
     border: 1px solid rgba(255,255,255,.07);
@@ -2667,7 +2667,6 @@ section.certified-sec h3 {
 }
 
 .eyebrow {
-    font-family: 'Syne', sans-serif;
     font-size: 11px;
     font-weight: 700;
     letter-spacing: .16em;
@@ -2733,7 +2732,6 @@ section.certified-sec h3 {
 }
 
 .card-num {
-    font-family: 'Syne', sans-serif;
     font-size: 10px;
     font-weight: 700;
     letter-spacing: .12em;
@@ -2765,7 +2763,6 @@ section.certified-sec h3 {
 }
 
 .stat-val {
-    font-family: 'Syne', sans-serif;
     font-size: 22px;
     font-weight: 700;
     color: #1a1a2e;
@@ -2845,7 +2842,6 @@ section.certified-sec h3 {
 }
 
 .eyebrow {
-    font-family: 'Syne', sans-serif;
     font-size: 11px;
     font-weight: 700;
     letter-spacing: .16em;
@@ -2855,7 +2851,6 @@ section.certified-sec h3 {
 }
 
 .main-heading {
-    font-family: 'Syne', sans-serif;
     font-size: 28px;
     font-weight: 700;
     color: #1a1a2e;
@@ -2944,7 +2939,6 @@ section.certified-sec h3 {
 }
 
 .card-label {
-    font-family: 'Syne', sans-serif;
     font-size: 10px;
     font-weight: 700;
     letter-spacing: .13em;
@@ -2953,7 +2947,6 @@ section.certified-sec h3 {
 }
 
 .card-title-text {
-    font-family: 'Syne', sans-serif;
     font-size: 15px;
     font-weight: 700;
     color: #1a1a2e;
@@ -3095,7 +3088,6 @@ section.certified-sec h3 {
 }
 
 .eyebrow {
-    font-family: 'Syne', sans-serif;
     font-size: 11px;
     font-weight: 700;
     letter-spacing: .18em;
@@ -3105,7 +3097,6 @@ section.certified-sec h3 {
 }
 
 .main-heading {
-    font-family: 'Syne', sans-serif;
     font-size: 30px;
     font-weight: 800;
     color: #1a1a2e;
@@ -3120,7 +3111,7 @@ section.certified-sec h3 {
     font-weight: 300;
 }
 
-/* â”€â”€ Card â”€â”€ */
+/* ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ Card ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ */
 .sol-card {
     background: #fff;
     border: 1px solid #e4e7ec;
@@ -3168,7 +3159,6 @@ section.certified-sec h3 {
 }
 
 .sol-step {
-    font-family: 'Syne', sans-serif;
     font-size: 10px;
     font-weight: 700;
     letter-spacing: .13em;
@@ -3192,7 +3182,7 @@ section.certified-sec h3 {
     flex: 1;
 }
 
-/* â”€â”€ Open Image Link â”€â”€ */
+/* ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ Open Image Link ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ */
 .open-link {
     display: inline-flex;
     align-items: center;
@@ -3208,7 +3198,7 @@ section.certified-sec h3 {
     align-self: flex-start;
 }
 
-/* â”€â”€ Hover thumbnail overlay â”€â”€ */
+/* ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ Hover thumbnail overlay ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ */
 .sol-thumb {
     position: relative;
     display: inline-block;
@@ -3216,10 +3206,10 @@ section.certified-sec h3 {
 
 .sol-thumb img {
     display: none;
-    /* hidden â€” only href used by fancybox */
+    /* hidden ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â only href used by fancybox */
 }
 
-/* â”€â”€ Color Themes â”€â”€ */
+/* ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ Color Themes ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ */
 /* 1 Teal */
 .c1 .sol-card-top {
     background: #ed6413;
@@ -3459,13 +3449,12 @@ section.certified-sec h3 {
 }
 
 .sec-heading {
-    font-size: 26px;
+    font-size: 36px;
     font-weight: 800;
     color: var(--navy);
     margin-bottom: 32px;
 }
 
-/* â”€â”€ SKILL CARDS â”€â”€ */
 .skill-card {
     background: var(--white);
     border: 1px solid var(--border);
@@ -3505,7 +3494,7 @@ section.certified-sec h3 {
 }
 
 .stag {
-    font-size: 13px;
+    font-size: 14px;
     padding: 4px 10px;
     border-radius: 99px;
     background: var(--bg);
@@ -3514,7 +3503,6 @@ section.certified-sec h3 {
     white-space: nowrap;
 }
 
-/* â”€â”€ PROJECT CARDS â”€â”€ */
 .proj-card {
     background: var(--white);
     border: 1px solid var(--border);
@@ -3541,7 +3529,6 @@ section.certified-sec h3 {
 }
 
 .proj-metric {
-    font-family: 'Syne', sans-serif;
     font-size: 21px;
     font-weight: 800;
     margin-bottom: 4px;
@@ -3925,4 +3912,365 @@ section.certified-sec h3 {
 
 .submit-btn:active {
     transform: translateY(0);
+}
+
+
+.indirect-prompt-img figure {
+    margin: 0px;
+}
+
+.indirect-prompt-img figure img {
+    width: 100%;
+}
+
+
+.indirect-prompt-wrap h3 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+.indirect-prompt-wrap ul {
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.indirect-prompt-wrap ul li {
+    margin-bottom: 10px;
+    line-height: 30px;
+}
+
+.indirect-prompt-wrap h4 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.section-label {
+    font-size: 11px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #ed6413;
+    margin-bottom: 10px;
+}
+
+.section-title {
+    font-size: clamp(26px, 4vw, 38px);
+    font-weight: 800;
+    margin-bottom: 40px;
+    color: var(--navy);
+}
+
+.section-title span {
+    /* color: #ed6413; */
+}
+
+/* CARD */
+.team-card {
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 16px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform .3s, box-shadow .3s, border-color .3s;
+}
+
+.team-card:hover {
+    transform: translateY(-5px);
+    border-color: #ed6413;
+    box-shadow: 0 16px 48px rgba(237, 100, 19, .12);
+}
+
+.card-top {
+    background: #ed6413;
+    padding: 28px 26px 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.card-top::after {
+    content: '';
+    position: absolute;
+    bottom: -40px;
+    right: -30px;
+    width: 130px;
+    height: 130px;
+    background: rgba(255, 255, 255, .08);
+    border-radius: 50%;
+}
+
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, .2);
+    border: 2px solid rgba(255, 255, 255, .4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 800;
+    color: #fff;
+    margin-bottom: 12px;
+    position: relative;
+    z-index: 1;
+}
+
+.card-name {
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.card-role {
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, .8);
+    margin-top: 3px;
+    position: relative;
+    z-index: 1;
+}
+
+.card-body-custom {
+    padding: 22px 24px;
+}
+
+.exp-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(237, 100, 19, .08);
+    border: 1px solid rgba(237, 100, 19, .2);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 12px;
+    color: #ed6413;
+    font-weight: 500;
+    margin-bottom: 14px;
+}
+
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 16px;
+}
+
+.tag {
+    background: #f5f5f5;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    padding: 3px 9px;
+    font-size: 14px;
+    color: #666;
+}
+
+.card-desc {
+    font-size: 16px;
+    color: #888;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.view-btn {
+    width: 100%;
+    background: transparent;
+    border: 1.5px solid #ed6413;
+    color: #ed6413;
+    border-radius: 8px;
+    padding: 12px  10px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: all .25s;
+    cursor: pointer;
+}
+
+.view-btn:hover {
+    background: #ed6413;
+    color: #fff;
+}
+
+/* MODAL */
+.modal-content {
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.modal-header-custom {
+    background: #ed6413;
+    padding: 26px 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.modal-header-custom::after {
+    content: '';
+    position: absolute;
+    bottom: -50px;
+    right: -30px;
+    width: 170px;
+    height: 170px;
+    background: rgba(255, 255, 255, .07);
+    border-radius: 50%;
+}
+
+.modal-avatar {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, .2);
+    border: 2px solid rgba(255, 255, 255, .4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 800;
+    color: #fff;
+    margin-bottom: 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.modal-name {
+    font-size: 20px;
+    font-weight: 800;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.modal-role-label {
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, .75);
+    position: relative;
+    z-index: 1;
+}
+
+.modal-close-btn {
+    position: absolute;
+    top: 16px;
+    right: 18px;
+    background: rgba(255, 255, 255, .15);
+    border: none;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 13px;
+    cursor: pointer;
+    z-index: 2;
+    transition: background .2s;
+}
+
+.modal-close-btn:hover {
+    background: rgba(255, 255, 255, .3);
+}
+
+.modal-body-custom {
+    padding: 26px 30px;
+}
+
+.m-section-title {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #ed6413;
+    margin-bottom: 12px;
+    font-weight: 700;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 22px;
+}
+
+.info-item {
+    background: #fafafa;
+    border: 1px solid #ebebeb;
+    border-radius: 10px;
+    padding: 11px 14px;
+}
+
+.info-label {
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #aaa;
+    margin-bottom: 3px;
+}
+
+.info-value {
+    font-size: 13px;
+    font-weight: 500;
+    color: #222;
+}
+
+.bullet-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 22px;
+}
+
+.bullet-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 9px;
+    font-size: 15px;
+    color: #555;
+    line-height: 1.65;
+    margin-bottom: 9px;
+}
+
+.bullet-list li::before {
+    content: '';
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #ed6413;
+    margin-top: 8px;
+    flex-shrink: 0;
+}
+
+.modal-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    margin-bottom: 20px;
+}
+
+.modal-tag {
+    background: #f5f5f5;
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    padding: 4px 11px;
+    font-size: 14px;
+    color: #666;
+}
+
+.modal-divider {
+    border-color: #ebebeb;
+    margin: 0 0 18px;
+}
+section.team-wrap {
+    padding: 30px 0px;
+}
+.modal-body-custom strong {
+    margin-bottom: 20px;
+    display: block;
 }
